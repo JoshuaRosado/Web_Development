@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "Abril",
+        "arbortrary",
+        "Cataleya",
+        "cursorclass",
+        "dealz",
+        "jsonify",
+        "lastrowid",
+        "longboard",
+        "longboards",
+        "Matcha",
+        "mogrify",
+        "mysqlconnection",
+        "pymysql",
+        "Rosado",
+        "SLLNODE"
+    ],
+    "python.analysis.extraPaths": [
+        "./python/flask_mysql/db_connection/first_flask_mysql"
+    ]
+}

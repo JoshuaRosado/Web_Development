@@ -1,0 +1,31 @@
+:root {
+    --boxColor: rgba(1, 190, 111, 0.533);
+}
+
+body{
+    background-color: #000;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.scene{
+    position: relative;
+}
+
+.ball{
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    background: lightblue;
+
+}
+
+.box{
+    width: 3em;
+    height: 3em;
+    background-color: var ((--boxColor));
+}
+
